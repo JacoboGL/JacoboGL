@@ -14,8 +14,7 @@
 
 <h3 align="center">Connect with me here:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/jacobo-g-lópez-82703b233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacobo-g-lópez-82703b233" height="30" width="40" /></a>
-<a href="https://instagram.com/jacobogl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jacobogl" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jacobo-g-lópez-82703b233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacobo-g-lópez-82703b233" height="30" width="40" />
 </p>
 
 <hr>
