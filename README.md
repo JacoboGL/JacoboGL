@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/Tsk1Wjz.png)
 
-<h2 align="center">I'm a mechatronics engineer that loves programming 🖥️</h2>
+<h2 align="center">I'm a mechatronics engineer that loves programming and 3D 🖥️</h2>
 <h3 align="center">Unity Junior Developer / VFX Artist / 3D Modeller 📗</h3>
 
 <h2>About me:</h2>
