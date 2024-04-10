@@ -1,7 +1,7 @@
 ![](https://i.imgur.com/Tsk1Wjz.png)
 
 <h2 align="center">I'm a mechatronics engineer that loves programming 🖥️</h2>
-<h3 align="center">Currently learning web development and refining my skills as a programmer 📗</h3>
+<h3 align="center">Unity Junior Developer / VFX Artist / 3D Modeller 📗</h3>
 
 <h2>About me:</h2>
 <p>I'm the Prototyping Leader at "Francisco Jose de Caldas Science Center", part of the University of Caldas (Colombia). There, I work in various projects and research regarding new technologies, 3D printing, robotics, VR / AR experiences, 3D modelling, content streaming, tech events streaming and content creation, and the use of technology applied to daily and specilized user cases. 🤖</p>
