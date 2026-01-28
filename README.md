@@ -7,13 +7,11 @@ I am an aspiring **Data Analyst / Data Scientist** with a background in Mechatro
 ## 📊 Featured Data Science Projects
 *I focus on end-to-end analysis, from data cleaning to predictive modeling.*
 
-| Project Name | Tech Stack | Key Insight |
-| :--- | :--- | :--- |
-| **[Netflix Exploratory Data Analysis](https://github.com/JacoboGL/Netflix-Movies-Data-Analysis/tree/master)** | Python, Pandas, Seaborn | End-to-end Exploratory Data Analysis (EDA) on the Netflix dataset to uncover content trends, global production hubs, and shifts in viewer preferences over the decades. |
+| Project Repo | Tech Stack | Key Insight | Full code |
+| :--- | :--- | :--- | :--- |
+| **[Netflix Exploratory Data Analysis](https://github.com/JacoboGL/Netflix-Movies-Data-Analysis/tree/master)** | Python, Pandas, Seaborn | End-to-end Exploratory Data Analysis (EDA) on the Netflix dataset to uncover content trends, global production hubs, and shifts in viewer preferences over the decades. | [nbviewer](https://nbviewer.org/github/JacoboGL/Netflix-Movies-Data-Analysis/blob/master/Netflix_Movies_Data_Exploration.ipynb) |
 | **[Pending](LinkToRepo)** | Pending | Built a Random Forest model |
 | **[Pending](LinkToRepo)** | Pending | Pending |
-
-> **Note:** My Jupyter Notebooks are best viewed via [Quarto/Portfolio Link] for interactive charts and cleaner documentation.
 
 ---
 
