@@ -10,7 +10,7 @@ I am an aspiring **Data Analyst / Data Scientist** with a background in Mechatro
 | Project Repo | Tech Stack | Key Insight | Full code |
 | :--- | :--- | :--- | :--- |
 | **[Netflix Exploratory Data Analysis](https://github.com/JacoboGL/Netflix-Movies-Data-Analysis/tree/master)** | Python, Pandas, Seaborn | End-to-end Exploratory Data Analysis (EDA) on the Netflix dataset to uncover content trends, global production hubs, and shifts in viewer preferences over the decades. | [nbviewer](https://nbviewer.org/github/JacoboGL/Netflix-Movies-Data-Analysis/blob/master/Netflix_Movies_Data_Exploration.ipynb) |
-| **[Pending](LinkToRepo)** | Pending | Built a Random Forest model |
+| **[World Happiness Predictive Model](https://github.com/JacoboGL/World-Happiness-Predictive-Model/tree/master)** | Python, Pandas, Seaborn, Matplotlib, SKlearn | Built a machine learning model to predict a country's Happiness Score based on economic, social, and health factors. | [nbviewer](https://nbviewer.org/github/JacoboGL/World-Happiness-Predictive-Model/blob/master/World_Happiness_2015_2024.ipynb)
 | **[Pending](LinkToRepo)** | Pending | Pending |
 
 ---
@@ -37,22 +37,20 @@ I am an aspiring **Data Analyst / Data Scientist** with a background in Mechatro
 <details>
   <summary><b>Web Development Projects</b> (Click to expand)</summary>
   <ul>
-    <li><b>[Project Name]:</b> A full-stack application built with React and Node.js.</li>
-    <li><b>[Project Name]:</b> [Brief description of another web project].</li>
+    <li><b>La Chinita Casas:</b> A fully functional deployment of a CRM system and website managing for real estate.</li>
+    <li><b>University of Caldas:</b> Multiple landing pages to showcase information regarding projects and faculties of the University of Caldas.</li>
   </ul>
 </details>
 
 <details>
   <summary><b>3D Modeling & Research</b> (Click to expand)</summary>
   <ul>
-    <li><b>3D Design:</b> Experience in [Software like Blender/C4D] for [Industry/Purpose].</li>
-    <li><b>Scientific Research:</b> Published/Studied [Field] focusing on quantitative methodology.</li>
+    <li><b>3D Design:</b> Experience in Blender, Autodesk Fusion and Solidworks for virtual environments and product visualization. Check my full portfolio [here](https://jacobogl-portfolio.vercel.app/)</li>
   </ul>
 </details>
 
 ---
 
 ## 📫 Let's Connect!
-- **LinkedIn:** [link](your-linkedin-url)
-- **Portfolio:** [link](your-custom-site-url)
-- **Email:** [your-email@example.com]
+- **LinkedIn:** [link](https://www.linkedin.com/in/jacob-lop-datai/)
+- **Email:** [jelvencraft@gmail.com]
