@@ -45,7 +45,7 @@ I am an aspiring **Data Analyst / Data Scientist** with a background in Mechatro
 <details>
   <summary><b>3D Modeling & Research</b> (Click to expand)</summary>
   <ul>
-    <li><b>3D Design:</b> Experience in Blender, Autodesk Fusion and Solidworks for virtual environments and product visualization. Check my full portfolio [here](https://jacobogl-portfolio.vercel.app/)</li>
+    <li><b>3D Design:</b> Experience in Blender, Autodesk Fusion and Solidworks for virtual environments and product visualization. Check my full portfolio https://jacobogl-portfolio.vercel.app/</li>
   </ul>
 </details>
 
@@ -53,4 +53,4 @@ I am an aspiring **Data Analyst / Data Scientist** with a background in Mechatro
 
 ## 📫 Let's Connect!
 - **LinkedIn:** [link](https://www.linkedin.com/in/jacob-lop-datai/)
-- **Email:** [jelvencraft@gmail.com]
+- **Email:** jelvencraft@gmail.com
